@@ -26,3 +26,4 @@ apt-get -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin do
 apt-get -y install docker-compose
 # Check docker installation:
 docker --version
+docker-compose --version
