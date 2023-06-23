@@ -9,6 +9,8 @@
 
 ***Note: This following procedure will uninstall any old Docker installation and Install Latest Version of Docker in your Ubuntu Machine***
 
+# Installation:
+
 ## Method 1:
 
 ### Clone the git repository.
