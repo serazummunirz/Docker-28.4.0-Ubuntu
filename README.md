@@ -7,7 +7,7 @@
 * Ubuntu Jammy 22.04 (LTS)
 * Ubuntu Focal 20.04 (LTS)
 
-***Note: This following procedure will uninstall old docker and Install Docker Latest Version in Ubuntu Machine***
+***Note: This following procedure will uninstall any old Docker installation and Install Latest Version of Docker in your Ubuntu Machine***
 
 ## Clone the git repository.
 
