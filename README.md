@@ -9,20 +9,30 @@
 
 ***Note: This following procedure will uninstall any old Docker installation and Install Latest Version of Docker in your Ubuntu Machine***
 
-## Clone the git repository.
+## Method 1:
+
+### Clone the git repository.
 
 ```
 git clone https://github.com/serazummunirz/install-docker-latest-ubuntu.git
 ```
 
-## Navigate to the "install-docker-latest-ubuntu" directory.
+### Navigate to the "install-docker-latest-ubuntu" directory.
 
 ```
 cd install-docker-latest-ubuntu
 ```
 
-## Run the script
+### Run the script
 
 ```
 bash install.sh
+```
+
+## Method 2:
+
+### Do the full installation in a single command.
+
+```
+git clone https://github.com/serazummunirz/install-docker-latest-ubuntu.git && cd install-docker-latest-ubuntu && bash install.sh
 ```
