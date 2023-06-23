@@ -23,6 +23,6 @@ apt-get -y update
 
 # To install the latest version, run:
 apt-get -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-
+apt-get -y install docker-compose
 # Check docker installation:
 docker --version
