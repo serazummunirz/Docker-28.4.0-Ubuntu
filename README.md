@@ -38,5 +38,5 @@ bash install.sh
 ### Do the full installation in a single command.
 
 ```
-git clone https://github.com/serazummunirz/install-docker-latest-ubuntu.git && cd install-docker-latest-ubuntu && bash install.sh
+git clone https://github.com/serazummunirz/Docker-Latest-Ubuntu.git && cd install-docker-latest-ubuntu && bash install.sh
 ```
