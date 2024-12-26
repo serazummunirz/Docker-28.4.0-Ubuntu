@@ -18,7 +18,7 @@
 ### Clone the git repository.
 
 ```
-git clone https://github.com/serazummunirz/install-docker-latest-ubuntu.git
+git clone https://github.com/serazummunirz/Docker-Latest-Ubuntu.git
 ```
 
 ### Navigate to the "install-docker-latest-ubuntu" directory.
