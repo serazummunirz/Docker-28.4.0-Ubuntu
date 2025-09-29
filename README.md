@@ -18,10 +18,10 @@
 ### Clone the git repository.
 
 ```
-git clone https://github.com/serazummunirz/Docker-Latest-Ubuntu.git
+git clone https://github.com/serazummunirz/Docker-28.4.0-Ubuntu.git
 ```
 
-### Navigate to the "install-docker-latest-ubuntu" directory.
+### Navigate to the "Docker-28.4.0-Ubuntu" directory.
 
 ```
 cd install-docker-latest-ubuntu
@@ -38,5 +38,5 @@ bash install.sh
 ### Do the full installation in a single command.
 
 ```
-git clone https://github.com/serazummunirz/Docker-Latest-Ubuntu.git && cd install-docker-latest-ubuntu && bash install.sh
+git clone https://github.com/serazummunirz/Docker-28.4.0-Ubuntu.git && cd Docker-28.4.0-Ubuntu && bash install.sh
 ```
