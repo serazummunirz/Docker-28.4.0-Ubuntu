@@ -24,7 +24,7 @@ git clone https://github.com/serazummunirz/Docker-28.4.0-Ubuntu.git
 ### Navigate to the "Docker-28.4.0-Ubuntu" directory.
 
 ```
-cd install-docker-latest-ubuntu
+cd Docker-28.4.0-Ubuntu
 ```
 
 ### Run the script
